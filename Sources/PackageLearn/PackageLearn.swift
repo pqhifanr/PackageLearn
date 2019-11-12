@@ -3,7 +3,7 @@ import Foundation
 public class PackageLearn {
     var text = "Hello, World!"
     
-    public func init() {}
+    public init() {}
 
     public func sayHello() {
         print(text)
